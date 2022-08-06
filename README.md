@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ezcel
 - 👀 I’m interested in Web Design & Development, UI/UX, Mobile App Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning UI/UX Design
+- 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me: mail: eziama5celestine@gmail.com, Instagram: @eziamacelestine, Twitter: @_ezii_
 
 <!---
